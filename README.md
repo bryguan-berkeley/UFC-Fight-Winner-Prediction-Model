@@ -51,7 +51,7 @@ In terms of data cleaning, I converted the fighters' height, weight, and reach f
 
 After cleaning the data, I exported the resulting dataframes as pickle files to be used in the next notebooks for exploration and modeling.
 
-## Notebook 4: Exploring
+## Notebook 4: Analyzing
 
 In the Exploring notebook, I performed exploratory data analysis (EDA) to gain a deeper understanding of the dataset. I began by calculating the summary statistics for key fighter attributes such as age, height, weight, and reach, and visualized their distributions using histograms to observe how these variables are spread across the dataset. Additionally, I examined the distributions for categorical variables like win method, fighter stance, weight division, and fight dates, which provided valuable insights into trends within the UFC data. Finally, I created a correlation matrix to explore relationships between numerical features, helping to identify potential predictors for modeling fight outcomes. This exploratory analysis laid the groundwork for feature selection and model development in later stages.
 
